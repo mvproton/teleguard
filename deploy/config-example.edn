@@ -1,0 +1,5 @@
+{:webhook-url       "https://domain-name.cc/teleguard-webhook"
+ :token             "telegram:token"
+ :server-opts       {:host "localhost" :port 1234}
+ :repl              {:host "localhost" :port 7878}
+ :channel-user-name "@chat_group_link"}
